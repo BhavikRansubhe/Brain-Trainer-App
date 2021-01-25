@@ -1,5 +1,7 @@
 # Brain-Trainer-App
 
+A simple Game app to predict answer of the calculations . App contains a counter , a score tracker and option to play again !
+
 
 ![Screenshot (97)](https://user-images.githubusercontent.com/68580881/105669610-a30dd500-5f05-11eb-9e49-b2e68023d87a.png)
 ![Screenshot (98)](https://user-images.githubusercontent.com/68580881/105669613-a4d79880-5f05-11eb-99d7-3f0bd57a3c85.png)
